@@ -21,7 +21,6 @@ configuration:
     - Today.md
     - Month.md
     - Week.md
-    - index.md
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
