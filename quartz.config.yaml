@@ -12,6 +12,16 @@ configuration:
     - private
     - templates
     - .obsidian
+    - Personal Projects
+    - Prompts
+    - copilot
+    - outputs
+    - Reclamation KIQs
+    - "NEWSPULL_README.md.md"
+    - Today.md
+    - Month.md
+    - Week.md
+    - index.md
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
