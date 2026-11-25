@@ -1,0 +1,1 @@
+When has this tactic been used? Time, day of the week, month, etc.

@@ -1,0 +1,18 @@
+---
+title: "Inside Ukraine’s Palantir-Powered AI War Room Guiding Drone Strikes Deep Into Russia."
+card: "UAS-2026-22"
+author: "Ivan Khomenko"
+outlet: "UNITED24 Media"
+published: 2026-06-01
+url: "https://united24media.com/war-in-ukraine/inside-ukraines-palantir-powered-ai-war-room-guiding-drone-strikes-deep-into-russia-19356"
+query: ""
+imported: 2026-06-01
+type: news-card
+KIQ: ["[[RUAS 2026.1]]", "[[RUAS 2026.2]]", "[[RUAS 2026.3]]", "[[RUAS 2026.4]]", "[[RUAS 2026.6]]"]
+---
+(U) Ivan Khomenko. "Inside Ukraine’s Palantir-Powered AI War Room Guiding Drone Strikes Deep Into Russia." UNITED24 Media, June 1, 2026. https://united24media.com/war-in-ukraine/inside-ukraines-palantir-powered-ai-war-room-guiding-drone-strikes-deep-into-russia-19356. Accessed June 1, 2026.
+
+![[RUAS 2026.1]]
+![[RUAS 2026.2]]
+
+(U) Ukraine’s military intelligence agency (HUR) is using an artificial intelligence-powered targeting and command platform developed by US software company Palantir to support long-range drone operations against targets inside Russia. According to a _CNN_ report published on May 31, journalists were [granted](https://www.youtube.com/watch?v=_9GkUkIaOno&t=0) rare access to a HUR unit responsible for planning long-range drone strikes against strategic targets in Russia. The report showed operators working with PRISMA, a software platform developed by Palantir that integrates real-time battlefield data, flight paths, and AI-assisted analysis into a single operational picture. CNN reported that the system enables operators to coordinate large numbers of drones simultaneously during ongoing missions. Video footage from a Ukrainian command center showed live maps, flight trajectories, and AI-processed data displayed on multiple screens while a commander identified by the callsign “Vector” planned operations. According to CNN, PRISMA continuously analyzes information collected from previous drone missions, including interception points, radar coverage zones, air defense activity, and flight routes used by earlier waves of unmanned aircraft. The system uses this data to identify potential gaps in Russian air defenses and calculate alternative routes for subsequent drone flights. The report states that artificial intelligence plays a central role in processing large volumes of battlefield information in real time. By analyzing Russian air defense patterns and previous interception attempts, the platform helps operators adapt flight plans during ongoing operations. CNN also reported that the system is designed with a decentralized architecture intended to maintain operational continuity if individual command nodes are disrupted. HUR operators told the network that monitoring centers are distributed across multiple locations, allowing other nodes to continue functioning if one site is disabled. The report provides one of the most detailed public looks to date at how Ukraine is integrating commercial AI technologies into military operations. Palantir has worked with Ukrainian government and defense institutions since the early stages of Russia’s full-scale invasion, providing software tools for intelligence analysis, logistics, and battlefield planning. Earlier, Ukraine’s Defense Minister Mykhailo Fedorov [announced](https://united24media.com/world/fedorov-announces-logistic-lockdown-program-of-mid-range-strikes-on-russian-rear-logistics-19234) the launch of the “Logistic Lockdown” program, an initiative aimed at expanding Ukraine’s ability to strike Russian logistics networks and military infrastructure beyond the frontline. Ukrainian officials have increasingly highlighted the role of artificial intelligence, autonomous systems, and long-range drones in those operations.

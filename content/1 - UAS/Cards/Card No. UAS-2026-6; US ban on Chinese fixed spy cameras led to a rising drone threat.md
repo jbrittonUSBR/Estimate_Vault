@@ -1,0 +1,18 @@
+---
+title: U.S. ban on Chinese fixed spy cameras led to a rising drone threat
+card: UAS-2026-6
+author: Stephen Bryen
+outlet: Asia Times
+published: 2026-04-07
+url: https://asiatimes.com/2026/04/us-ban-on-chinese-fixed-spy-cameras-led-to-a-rising-drone-threat/
+query: ""
+imported: 2026-04-07
+type: news-card
+KIQ: ["[[RUAS 2026.1]]", "[[RUAS 2026.2]]", "[[RUAS 2026.3]]", "[[RUAS 2026.4]]", "[[RUAS 2026.5]]", "[[RUAS 2026.6]]"]
+---
+(U) Stephen Bryen. "U.S. ban on Chinese fixed spy cameras led to a rising drone threat." Asia Times, April 7, 2026. [US ban on Chinese fixed spy cameras led to a rising drone threat - Asia Times](https://asiatimes.com/2026/04/us-ban-on-chinese-fixed-spy-cameras-led-to-a-rising-drone-threat/). Accessed April 13, 2026. 
+
+![[RUAS 2026.1]]
+![[RUAS 2026.3]]
+
+(U) Chinese spy cameras remain in widespread use in the United States, in Canada and Mexico and worldwide. They are sold as security and traffic cameras, but that is a cover story for their real use. Such cameras are used for social and political control turning countries into digital prisons. The US and Israel have been able to hack them. In places where they are banned, China is now using drones to conduct spying in place of fixed installation cameras. The recent persistent [Barksdale Air Base drone incursion](https://asiatimes.com/2026/03/sophisticated-drones-attacked-louisianas-barksdale-bomber-base/) along with many others may be China’s partial answer to the ban on its security cameras. In fact, the rise of drone security incidents corresponds almost exactly to the US 2019 ban on Chinese cameras at American military bases. What is happening in the United States is [taking place elsewhere.](https://thedefensepost.com/2024/11/26/mysterious-drones-uk-bases/) Back in 2018 I discovered a sole source contract for Hikvision cameras for the US Embassy in Kabul, Afghanistan. Hikvision is Hangzhou Hikvision Digital Technology Co., Ltd. It is a publicly traded company, but it is effectively controlled by the Chinese government. While it is listed on the Shenzhen Stock Exchange (SZSE: 002415), its ownership structure is a mix of state-owned enterprises (SOEs), private founders, and institutional investors where state-owned enterprises control more than half the company. Why, I wondered, was the US Embassy in Kabul ordering Chinese cameras for its security, and why was the contract sole-source, meaning no other camera would qualify for the job? As I began asking questions about the announced contract (a sole source announcement means the deal is done), I found out that Hikvision, along with another Chinese camera company, Dahua Technology (Zhejiang Dahua Technology Co., Ltd.), apparently had weak security amounting to a functional back door. These cameras work through the Internet and can be easily hacked. The problem, it turned out, was far bigger than the Kabul embassy. Chinese cameras made by Hikvision and Dahua were being used throughout the US government for security, including at military bases. Since 2003 China has put in place what it calls a Safe City (Ping’an Chengshi) program. This program is the framework for China’s massive internal surveillance system, which uses cameras, facial recognition, license plate readers, and artificial intelligence for social and political control and security protection. China has exported this system to many African countries including Kenya, Uganda, Ethiopia, Egypt, South Africa; in South East and Central Asia including Pakistan, Laos and Myanmar, Uzbekistan and the Philippines; and in Latin American countries including Brazil and Venezuela. In the Middle East, Safe City has been implemented in the UAE and Saudi Arabia, and also Iran.
